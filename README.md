@@ -1,6 +1,6 @@
 ---
 
-# Encoder tools - 9 layer
+# Encoder tools - 9 layers
 
 ![BPW Banner](assets/gif.gif)
 
@@ -21,10 +21,10 @@ python encode.py /path/example.py
           Developer: Ruiix_.vol
         Lock your tools for safety
 
-    [INFO] Found file      > encode.py
+    [INFO] Found file      > example.py
     [INFO] Locking process • • •
-    [INFO] Success locking > encode.py
-    [INFO] Path your file > encode.py
+    [INFO] Success locking > example.py
+    [INFO] Path your file > example.py
     [INFO] Your script has been encoded 9 layers
 
 ---
