@@ -1,6 +1,6 @@
 ---
 
-# ðŸ“„ encode â€” encode 9 layer tools
+# Encoder tools - 9 layer
 
 ![BPW Banner](assets/gif.gif)
 
@@ -9,14 +9,14 @@
 
 ---
 
-## âš™ï¸ Usage
+## Usage ：
 Examples:
 
 python encode.py /path/example.py
 
 ---
 
-## ðŸ“¦ Output
+## Output :
 
              Developer: Ruiix_.volt
            Lock your tools for safety
@@ -29,7 +29,7 @@ python encode.py /path/example.py
 
 ---
 
-## ðŸ‘¤ Developer
+## Developer ：
 
 Author: Ruiix_.volt
 ---
